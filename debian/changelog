@@ -1,3 +1,9 @@
+libsfml (2.5.1+dfsg-2deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 12:11:38 +0800
+
 libsfml (2.5.1+dfsg-2) unstable; urgency=high
 
   * Team upload.
